@@ -1,7 +1,6 @@
 # LAB EVALUATION - 1
 # Amazon-co-purchasing-system
 
-One Paragraph of the project description
 
 The dataset can be found 
 [here](https://snap.stanford.edu/data/amazon0302.html).
